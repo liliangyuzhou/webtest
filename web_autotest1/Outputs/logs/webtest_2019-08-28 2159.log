@@ -1,0 +1,72 @@
+2019-08-28 21:59:14,062-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:14,062-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:14,733-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:14,743-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:14,743-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:15,999-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:16,474-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:16,474-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:16,879-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:17,116-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:17,116-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:17,510-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:17,734-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:17,735-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:18,137-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:18,349-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:18,349-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:18,748-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:18,957-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:18,957-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:19,365-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
+2019-08-28 21:59:19,582-common.basepage-INFO-日志信息:等待元素('xpath', '//*[@name="phone"]')可见- [basepage.py:53 ]
+2019-08-28 21:59:19,582-common.basepage-ERROR-日志信息:等待元素可见失败- [basepage.py:62 ]
+Traceback (most recent call last):
+  File "/Users/liliang/PycharmProjects/web_autotest1/common/basepage.py", line 56, in visible_element
+    WebDriverWait(self.driver,timeout,frequency).until(EC.visibility_of_element_located(loc))
+  File "/Library/Frameworks/Python.framework/Versions/3.7/lib/python3.7/site-packages/selenium/webdriver/support/wait.py", line 68, in until
+    end_time = time.time() + self._timeout
+TypeError: unsupported operand type(s) for +: 'float' and 'str'
+2019-08-28 21:59:19,983-common.basepage-INFO-日志信息:失败截图成功,图片存放在/Users/liliang/PycharmProjects/web_autotest1/Outputs/screenshoots目录下- [basepage.py:37 ]
