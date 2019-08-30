@@ -1,0 +1,11 @@
+一般建的包名尽量不要选择目录dictionary，选择新建包package，如果确定新建目录，那么出现模块不存在
+的时候，在该模块所在目录下，新建一个__init__.py文件即可！
+
+
+生成pytest的html测试报告
+pytest -v -s  -m smoke --html=Outputs/reports/pytest_test_web.html
+
+
+生成与allure集成的测试报告
+pytest -v -s -m smoke --alluredir=Outputs/allure_reports
+ allure serve /Users/liliang/PycharmProjects/auto_test2/Outputs/allure_reports
